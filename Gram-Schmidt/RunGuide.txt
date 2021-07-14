@@ -1,0 +1,7 @@
+[Step1]	Add your matrix in the file named "testCase.txt" with format below
+	a1,b1,...,z1
+	a2,b2,...,z2
+	............
+	an,bn,...,zn
+
+[Step2]	python[version | none] gram-schmidt.py
